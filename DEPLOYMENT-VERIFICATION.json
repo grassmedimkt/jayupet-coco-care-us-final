@@ -1,0 +1,432 @@
+{
+  "deployment": {
+    "id": "appgdep_6abd37255d5481918a49911586c3c316",
+    "project_id": "appgprj_6abd34ba9d6081919fe0553e49486925",
+    "title": "JAYUPET × Coco — Care Time",
+    "version_id": "appgprj_6abd34ba9d6081919fe0553e49486925~appgver_fff3c4c4efec8191b2bedd03e3d98b82",
+    "type": "publish",
+    "status": "succeeded",
+    "url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site",
+    "has_mcp": false,
+    "screenshot_asset_pointer": null,
+    "provider_deployment_id": "site---6abd34ba9d6081919fe0553e49486925",
+    "failure_message": null,
+    "env_set_revision": 0,
+    "updated_at": "2026-09-30T16:22:29.413327+00:00"
+  },
+  "verified_at_utc": "2026-09-30T16:24:40.923893+00:00",
+  "method": "Unauthenticated HTTPS GET, SHA-256 comparison of deployed HTML and all 38 referenced assets against the pushed source",
+  "results": [
+    {
+      "path": "index.html",
+      "url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/index.html",
+      "local_sha256": "c7c3e9d87e805b8f6d168280b4928282bb72cdeadb9fefb9cfcbb72a95dc56d3",
+      "status": 200,
+      "content_type": "text/html",
+      "final_url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/",
+      "deployed_sha256": "25adbd8b0522f141806e8450adf97a9bbd44e89e0f436e2b1e97aa46ba04f35c",
+      "matches": false
+    },
+    {
+      "path": "asset/bad-breath.png",
+      "url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/bad-breath.png",
+      "local_sha256": "1a90b72dc904abc593a43400f6e2ed4c1d59f407ce94227be9def403cfa7940a",
+      "status": 200,
+      "content_type": "image/png",
+      "final_url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/bad-breath.png",
+      "deployed_sha256": "1a90b72dc904abc593a43400f6e2ed4c1d59f407ce94227be9def403cfa7940a",
+      "matches": true
+    },
+    {
+      "path": "asset/blackhead1.png",
+      "url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/blackhead1.png",
+      "local_sha256": "674f6db4c25beae13fa975de6a5a859db8ce7aae4b34236b22c2d74f27abcd4a",
+      "status": 200,
+      "content_type": "image/png",
+      "final_url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/blackhead1.png",
+      "deployed_sha256": "674f6db4c25beae13fa975de6a5a859db8ce7aae4b34236b22c2d74f27abcd4a",
+      "matches": true
+    },
+    {
+      "path": "asset/blackhead2.png",
+      "url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/blackhead2.png",
+      "local_sha256": "55e14ae3a19a54f43bd170e5db5251fc7316d84705e606292a2791d76052ae78",
+      "status": 200,
+      "content_type": "image/png",
+      "final_url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/blackhead2.png",
+      "deployed_sha256": "55e14ae3a19a54f43bd170e5db5251fc7316d84705e606292a2791d76052ae78",
+      "matches": true
+    },
+    {
+      "path": "asset/blackhead3.png",
+      "url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/blackhead3.png",
+      "local_sha256": "d559a9f0c83162f5bf86a01b9d1712cf8a291c743ef0f8480ae630b6ff83fdf8",
+      "status": 200,
+      "content_type": "image/png",
+      "final_url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/blackhead3.png",
+      "deployed_sha256": "d559a9f0c83162f5bf86a01b9d1712cf8a291c743ef0f8480ae630b6ff83fdf8",
+      "matches": true
+    },
+    {
+      "path": "asset/brush.png",
+      "url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/brush.png",
+      "local_sha256": "7a7c5f11a7f12a45263077bc52149a4793df5c5bf63b6141b398483f1e9a9cac",
+      "status": 200,
+      "content_type": "image/png",
+      "final_url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/brush.png",
+      "deployed_sha256": "7a7c5f11a7f12a45263077bc52149a4793df5c5bf63b6141b398483f1e9a9cac",
+      "matches": true
+    },
+    {
+      "path": "asset/chin-blackhead-spots-brush-before-transparent.png",
+      "url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/chin-blackhead-spots-brush-before-transparent.png",
+      "local_sha256": "fdc2b88482bd68fe408e807948fca629bd7119ce9242e337c30efa437e976aa2",
+      "status": 200,
+      "content_type": "image/png",
+      "final_url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/chin-blackhead-spots-brush-before-transparent.png",
+      "deployed_sha256": "fdc2b88482bd68fe408e807948fca629bd7119ce9242e337c30efa437e976aa2",
+      "matches": true
+    },
+    {
+      "path": "asset/chin-blackhead-spots-pad-before-transparent.png",
+      "url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/chin-blackhead-spots-pad-before-transparent.png",
+      "local_sha256": "f0aa77ff360716a1a551dc6da06d4197a1a816be26f304c7b8c8bc56e38ecb16",
+      "status": 200,
+      "content_type": "image/png",
+      "final_url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/chin-blackhead-spots-pad-before-transparent.png",
+      "deployed_sha256": "f0aa77ff360716a1a551dc6da06d4197a1a816be26f304c7b8c8bc56e38ecb16",
+      "matches": true
+    },
+    {
+      "path": "asset/cleanser.png",
+      "url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/cleanser.png",
+      "local_sha256": "9054095f70e2c3a624d3a47fc8d0281cdc0e13751ad332e9fda8c5771311b397",
+      "status": 200,
+      "content_type": "image/png",
+      "final_url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/cleanser.png",
+      "deployed_sha256": "9054095f70e2c3a624d3a47fc8d0281cdc0e13751ad332e9fda8c5771311b397",
+      "matches": true
+    },
+    {
+      "path": "asset/coco-expression-0.png",
+      "url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/coco-expression-0.png",
+      "local_sha256": "57642736fad5ae45c4e40607f33a24ae2bb67bae038f45abaf410972d32278be",
+      "status": 200,
+      "content_type": "image/png",
+      "final_url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/coco-expression-0.png",
+      "deployed_sha256": "57642736fad5ae45c4e40607f33a24ae2bb67bae038f45abaf410972d32278be",
+      "matches": true
+    },
+    {
+      "path": "asset/coco-expression-complete.png",
+      "url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/coco-expression-complete.png",
+      "local_sha256": "842fb6b7c2c5f6df76c012384f1df9383d4e95b67cb5cec4d2357aff7b6edbc3",
+      "status": 200,
+      "content_type": "image/png",
+      "final_url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/coco-expression-complete.png",
+      "deployed_sha256": "842fb6b7c2c5f6df76c012384f1df9383d4e95b67cb5cec4d2357aff7b6edbc3",
+      "matches": true
+    },
+    {
+      "path": "asset/coco-eye-closeup.png",
+      "url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/coco-eye-closeup.png",
+      "local_sha256": "d453393e706c1e1617e68d877f5482423008acd006e34b14602099f16791bec7",
+      "status": 200,
+      "content_type": "image/png",
+      "final_url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/coco-eye-closeup.png",
+      "deployed_sha256": "d453393e706c1e1617e68d877f5482423008acd006e34b14602099f16791bec7",
+      "matches": true
+    },
+    {
+      "path": "asset/coco-frizzy-fur.png",
+      "url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/coco-frizzy-fur.png",
+      "local_sha256": "554dc6b990b95292dc7cbe5b60c8dcc6e13775d5f7369895160523804e79d6e7",
+      "status": 200,
+      "content_type": "image/png",
+      "final_url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/coco-frizzy-fur.png",
+      "deployed_sha256": "554dc6b990b95292dc7cbe5b60c8dcc6e13775d5f7369895160523804e79d6e7",
+      "matches": true
+    },
+    {
+      "path": "asset/coco-mouth-before-final-uniform-gum-4x5.png",
+      "url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/coco-mouth-before-final-uniform-gum-4x5.png",
+      "local_sha256": "5ad0e5afdc3263087a72e7ceb9d9a825763dc7622eda7b196780997f5d9a0345",
+      "status": 200,
+      "content_type": "image/png",
+      "final_url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/coco-mouth-before-final-uniform-gum-4x5.png",
+      "deployed_sha256": "5ad0e5afdc3263087a72e7ceb9d9a825763dc7622eda7b196780997f5d9a0345",
+      "matches": true
+    },
+    {
+      "path": "asset/coco-mouth-clean-final-uniform-gum-4x5.png",
+      "url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/coco-mouth-clean-final-uniform-gum-4x5.png",
+      "local_sha256": "1e817b53e7abbc833fcfe479823b55fdbabddcc5deb3eb909f3a350d4764722d",
+      "status": 200,
+      "content_type": "image/png",
+      "final_url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/coco-mouth-clean-final-uniform-gum-4x5.png",
+      "deployed_sha256": "1e817b53e7abbc833fcfe479823b55fdbabddcc5deb3eb909f3a350d4764722d",
+      "matches": true
+    },
+    {
+      "path": "asset/coco-paw-before.png",
+      "url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/coco-paw-before.png",
+      "local_sha256": "34026481cd90de215f43ee88dfcae3d44c74a2023ae0348bd25d6d87f2ad7c95",
+      "status": 200,
+      "content_type": "image/png",
+      "final_url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/coco-paw-before.png",
+      "deployed_sha256": "34026481cd90de215f43ee88dfcae3d44c74a2023ae0348bd25d6d87f2ad7c95",
+      "matches": true
+    },
+    {
+      "path": "asset/coco-paw-final.png",
+      "url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/coco-paw-final.png",
+      "local_sha256": "d69d3c9319d94830a3c229c7fe36f44c82b8cd4f806ca31898e6b347d587dcb0",
+      "status": 200,
+      "content_type": "image/png",
+      "final_url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/coco-paw-final.png",
+      "deployed_sha256": "d69d3c9319d94830a3c229c7fe36f44c82b8cd4f806ca31898e6b347d587dcb0",
+      "matches": true
+    },
+    {
+      "path": "asset/coco-paw-honey.png",
+      "url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/coco-paw-honey.png",
+      "local_sha256": "339ca48ddfa309b2735a91f6bc4f736587aabbd10b11e7eaeb596026504addd2",
+      "status": 200,
+      "content_type": "image/png",
+      "final_url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/coco-paw-honey.png",
+      "deployed_sha256": "339ca48ddfa309b2735a91f6bc4f736587aabbd10b11e7eaeb596026504addd2",
+      "matches": true
+    },
+    {
+      "path": "asset/coco-shampooing.png",
+      "url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/coco-shampooing.png",
+      "local_sha256": "9732a48e236fadedf61adb4774eacdaa9f5043c2fe2b60d11f02119973da1d72",
+      "status": 200,
+      "content_type": "image/png",
+      "final_url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/coco-shampooing.png",
+      "deployed_sha256": "9732a48e236fadedf61adb4774eacdaa9f5043c2fe2b60d11f02119973da1d72",
+      "matches": true
+    },
+    {
+      "path": "asset/dental-edge-illustrated-v3.png",
+      "url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/dental-edge-illustrated-v3.png",
+      "local_sha256": "2c2a8b18cb329917dd04e7683a6461128ff28121eec014b157917104038a684e",
+      "status": 200,
+      "content_type": "image/png",
+      "final_url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/dental-edge-illustrated-v3.png",
+      "deployed_sha256": "2c2a8b18cb329917dd04e7683a6461128ff28121eec014b157917104038a684e",
+      "matches": true
+    },
+    {
+      "path": "asset/dental-gel-side-game.png",
+      "url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/dental-gel-side-game.png",
+      "local_sha256": "3a35beb13b84b8974edc23630954bab0ecfceb824c3e6479ffa65e7fbbc5b359",
+      "status": 200,
+      "content_type": "image/png",
+      "final_url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/dental-gel-side-game.png",
+      "deployed_sha256": "3a35beb13b84b8974edc23630954bab0ecfceb824c3e6479ffa65e7fbbc5b359",
+      "matches": true
+    },
+    {
+      "path": "asset/dental-soft-illustrated-v2.png",
+      "url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/dental-soft-illustrated-v2.png",
+      "local_sha256": "31f336bb7bb0af348b0b948c6d24d67d949fc3d3a40d8729b381d2dc7c9ba902",
+      "status": 200,
+      "content_type": "image/png",
+      "final_url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/dental-soft-illustrated-v2.png",
+      "deployed_sha256": "31f336bb7bb0af348b0b948c6d24d67d949fc3d3a40d8729b381d2dc7c9ba902",
+      "matches": true
+    },
+    {
+      "path": "asset/eye-comb.png",
+      "url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/eye-comb.png",
+      "local_sha256": "1ebf673581d0f3d479c8442a77291c8f309e3bbbb67bf36d74928f78056f6fbf",
+      "status": 200,
+      "content_type": "image/png",
+      "final_url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/eye-comb.png",
+      "deployed_sha256": "1ebf673581d0f3d479c8442a77291c8f309e3bbbb67bf36d74928f78056f6fbf",
+      "matches": true
+    },
+    {
+      "path": "asset/eye-crust.png",
+      "url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/eye-crust.png",
+      "local_sha256": "d0287710fe0824dbeefdd9da6b198cb3376d152029bd9279ab3c6b1ae5ee9153",
+      "status": 200,
+      "content_type": "image/png",
+      "final_url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/eye-crust.png",
+      "deployed_sha256": "d0287710fe0824dbeefdd9da6b198cb3376d152029bd9279ab3c6b1ae5ee9153",
+      "matches": true
+    },
+    {
+      "path": "asset/face.png",
+      "url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/face.png",
+      "local_sha256": "2f83aba278bacaab8cc2491e667f6c2085afa27d4f9ecce5b4842f6829c80890",
+      "status": 200,
+      "content_type": "image/png",
+      "final_url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/face.png",
+      "deployed_sha256": "2f83aba278bacaab8cc2491e667f6c2085afa27d4f9ecce5b4842f6829c80890",
+      "matches": true
+    },
+    {
+      "path": "asset/fur-brush-collected.png",
+      "url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/fur-brush-collected.png",
+      "local_sha256": "7296242a20dc681c7ab2dca3a2d9bfcb5d26fe49090ca0b0aeefcfb731e14ef7",
+      "status": 200,
+      "content_type": "image/png",
+      "final_url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/fur-brush-collected.png",
+      "deployed_sha256": "7296242a20dc681c7ab2dca3a2d9bfcb5d26fe49090ca0b0aeefcfb731e14ef7",
+      "matches": true
+    },
+    {
+      "path": "asset/fur-brush.png",
+      "url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/fur-brush.png",
+      "local_sha256": "135b3eeab4c1b596ddb133595639504d3a6ddbd4c638a2c2788344e99cd9f1b8",
+      "status": 200,
+      "content_type": "image/png",
+      "final_url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/fur-brush.png",
+      "deployed_sha256": "135b3eeab4c1b596ddb133595639504d3a6ddbd4c638a2c2788344e99cd9f1b8",
+      "matches": true
+    },
+    {
+      "path": "asset/fur-mist-spray.png",
+      "url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/fur-mist-spray.png",
+      "local_sha256": "829ae83770c109fdd87e0bcc9e48ae06767d43e3195bb91184221a83b13e3f4e",
+      "status": 200,
+      "content_type": "image/png",
+      "final_url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/fur-mist-spray.png",
+      "deployed_sha256": "829ae83770c109fdd87e0bcc9e48ae06767d43e3195bb91184221a83b13e3f4e",
+      "matches": true
+    },
+    {
+      "path": "asset/fur-mist-tray.png",
+      "url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/fur-mist-tray.png",
+      "local_sha256": "5a9e1f632fef91519905aecad7e72c30dbca1c5df8c76dd2f9947d56f794441b",
+      "status": 200,
+      "content_type": "image/png",
+      "final_url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/fur-mist-tray.png",
+      "deployed_sha256": "5a9e1f632fef91519905aecad7e72c30dbca1c5df8c76dd2f9947d56f794441b",
+      "matches": true
+    },
+    {
+      "path": "asset/fur-shower.png",
+      "url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/fur-shower.png",
+      "local_sha256": "c4aab9f7fd2e5877e4f924ce34e3a9383d91bacf288a9510fe899328edde0d87",
+      "status": 200,
+      "content_type": "image/png",
+      "final_url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/fur-shower.png",
+      "deployed_sha256": "c4aab9f7fd2e5877e4f924ce34e3a9383d91bacf288a9510fe899328edde0d87",
+      "matches": true
+    },
+    {
+      "path": "asset/fur-tangle-coco-v2.png",
+      "url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/fur-tangle-coco-v2.png",
+      "local_sha256": "c5f7a486f51a0d938e53d249c499292c14a033f209180ae0fb8661abb3ddee76",
+      "status": 200,
+      "content_type": "image/png",
+      "final_url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/fur-tangle-coco-v2.png",
+      "deployed_sha256": "c5f7a486f51a0d938e53d249c499292c14a033f209180ae0fb8661abb3ddee76",
+      "matches": true
+    },
+    {
+      "path": "asset/fur-towel.png",
+      "url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/fur-towel.png",
+      "local_sha256": "3793f09f05d026e43736e70cd6e5dd3c161f7dd59ac8c6cc62df006b8d999799",
+      "status": 200,
+      "content_type": "image/png",
+      "final_url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/fur-towel.png",
+      "deployed_sha256": "3793f09f05d026e43736e70cd6e5dd3c161f7dd59ac8c6cc62df006b8d999799",
+      "matches": true
+    },
+    {
+      "path": "asset/hand.png",
+      "url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/hand.png",
+      "local_sha256": "bde07964d7d549dc3d83bace63abe584979e38ec9ac16f5ca62f745fbe6ea864",
+      "status": 200,
+      "content_type": "image/png",
+      "final_url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/hand.png",
+      "deployed_sha256": "bde07964d7d549dc3d83bace63abe584979e38ec9ac16f5ca62f745fbe6ea864",
+      "matches": true
+    },
+    {
+      "path": "asset/pad.png",
+      "url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/pad.png",
+      "local_sha256": "ded4d221f5f24071f9ffb4943eda4f815e618432813a8a4441afdd80a6166504",
+      "status": 200,
+      "content_type": "image/png",
+      "final_url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/pad.png",
+      "deployed_sha256": "ded4d221f5f24071f9ffb4943eda4f815e618432813a8a4441afdd80a6166504",
+      "matches": true
+    },
+    {
+      "path": "asset/paw-red-honey-balm.png",
+      "url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/paw-red-honey-balm.png",
+      "local_sha256": "3f2382d2a01acee35baebb4b28f0cb23d87f2d6d30e75737be5cc30ae22932cf",
+      "status": 200,
+      "content_type": "image/png",
+      "final_url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/paw-red-honey-balm.png",
+      "deployed_sha256": "3f2382d2a01acee35baebb4b28f0cb23d87f2d6d30e75737be5cc30ae22932cf",
+      "matches": true
+    },
+    {
+      "path": "asset/paw-shikonidin.png",
+      "url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/paw-shikonidin.png",
+      "local_sha256": "f3c4f4ff354c497fe07289474052e9821448fa6d6d57e76abdf3115d4d527c1b",
+      "status": 200,
+      "content_type": "image/png",
+      "final_url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/paw-shikonidin.png",
+      "deployed_sha256": "f3c4f4ff354c497fe07289474052e9821448fa6d6d57e76abdf3115d4d527c1b",
+      "matches": true
+    },
+    {
+      "path": "asset/shampoo-pour.png",
+      "url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/shampoo-pour.png",
+      "local_sha256": "11ff7737034e678d49047307d4929011fc0e5e05c0f066b7b3fc35836d24311a",
+      "status": 200,
+      "content_type": "image/png",
+      "final_url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/shampoo-pour.png",
+      "deployed_sha256": "11ff7737034e678d49047307d4929011fc0e5e05c0f066b7b3fc35836d24311a",
+      "matches": true
+    },
+    {
+      "path": "asset/shampoo-tray.png",
+      "url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/shampoo-tray.png",
+      "local_sha256": "33840b47e288cbc6ae317ecbb86abf9c965eb0b66dee3e8e457be70abadf0a6b",
+      "status": 200,
+      "content_type": "image/png",
+      "final_url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/shampoo-tray.png",
+      "deployed_sha256": "33840b47e288cbc6ae317ecbb86abf9c965eb0b66dee3e8e457be70abadf0a6b",
+      "matches": true
+    },
+    {
+      "path": "asset/stx/bgm05-new-day-again-255071.mp3",
+      "url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/stx/bgm05-new-day-again-255071.mp3",
+      "local_sha256": "f6b32f3fd8583140bd757063e6ed3f375927358c678da4aa97f68d011f5dae86",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "final_url": "https://jayupet-coco-care-us.adept-cat-5453.chatgpt.site/asset/stx/bgm05-new-day-again-255071.mp3",
+      "deployed_sha256": "f6b32f3fd8583140bd757063e6ed3f375927358c678da4aa97f68d011f5dae86",
+      "matches": true
+    }
+  ],
+  "all_match": false,
+  "archive_changes": [
+    "Asset relative paths moved to asset/images/ and asset/audio/; filenames and file bytes unchanged.",
+    "Hosting manifest static.directory changed from dist to . for standalone archive.",
+    "Added documentation, asset exclusions, checksums; existing source and deployment unchanged."
+  ],
+  "html_comparison": {
+    "raw_bytes_match": false,
+    "game_source_matches": true,
+    "excluded_host_injection": "Single Cloudflare challenge-platform script inserted immediately before </body>; not part of authored game code",
+    "normalized_text_sha256": "a0b3d096836aac32e4f2f1e84fdfab212e89c158b9de84f12357808796b38daf"
+  },
+  "all_authored_content_matches": true,
+  "archive_validation": {
+    "syntax": "passed",
+    "missing_assets": 0,
+    "unused_assets": 0,
+    "images": 37,
+    "audio": 1,
+    "asset_paths_only_changed": true
+  }
+}
